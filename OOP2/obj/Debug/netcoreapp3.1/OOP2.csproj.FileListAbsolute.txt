@@ -1,0 +1,14 @@
+C:\Users\KARDELEN\source\repos\OOP2\bin\Debug\netcoreapp3.1\OOP2.exe
+C:\Users\KARDELEN\source\repos\OOP2\bin\Debug\netcoreapp3.1\OOP2.deps.json
+C:\Users\KARDELEN\source\repos\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.json
+C:\Users\KARDELEN\source\repos\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.dev.json
+C:\Users\KARDELEN\source\repos\OOP2\bin\Debug\netcoreapp3.1\OOP2.dll
+C:\Users\KARDELEN\source\repos\OOP2\bin\Debug\netcoreapp3.1\OOP2.pdb
+C:\Users\KARDELEN\source\repos\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.AssemblyReference.cache
+C:\Users\KARDELEN\source\repos\OOP2\obj\Debug\netcoreapp3.1\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARDELEN\source\repos\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfoInputs.cache
+C:\Users\KARDELEN\source\repos\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfo.cs
+C:\Users\KARDELEN\source\repos\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\KARDELEN\source\repos\OOP2\obj\Debug\netcoreapp3.1\OOP2.dll
+C:\Users\KARDELEN\source\repos\OOP2\obj\Debug\netcoreapp3.1\OOP2.pdb
+C:\Users\KARDELEN\source\repos\OOP2\obj\Debug\netcoreapp3.1\OOP2.genruntimeconfig.cache
